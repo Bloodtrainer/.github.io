@@ -1,2 +1,1 @@
-<color="orange">[NEWS]</color> 
-Testing news feed for our game.
+<color="orange">[NEWS]</color> Testing news feed for our game.
